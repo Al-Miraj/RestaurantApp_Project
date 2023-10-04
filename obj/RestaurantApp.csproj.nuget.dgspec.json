@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Frank\\Source\\Repos\\RestaurantApp_Projectv2\\RestaurantApp\\RestaurantApp.csproj": {}
+    "C:\\Users\\Frank\\Source\\Repos\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Frank\\Source\\Repos\\RestaurantApp_Projectv2\\RestaurantApp\\RestaurantApp.csproj": {
+    "C:\\Users\\Frank\\Source\\Repos\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Frank\\Source\\Repos\\RestaurantApp_Projectv2\\RestaurantApp\\RestaurantApp.csproj",
+        "projectUniqueName": "C:\\Users\\Frank\\Source\\Repos\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj",
         "projectName": "RestaurantApp",
-        "projectPath": "C:\\Users\\Frank\\Source\\Repos\\RestaurantApp_Projectv2\\RestaurantApp\\RestaurantApp.csproj",
+        "projectPath": "C:\\Users\\Frank\\Source\\Repos\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj",
         "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Frank\\Source\\Repos\\RestaurantApp_Projectv2\\RestaurantApp\\obj\\",
+        "outputPath": "C:\\Users\\Frank\\Source\\Repos\\RestaurantApp_Project\\RestaurantApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
