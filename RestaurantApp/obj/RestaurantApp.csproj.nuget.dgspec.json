@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khadi\\Source\\Repos\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj": {}
+    "C:\\Users\\manuf\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khadi\\Source\\Repos\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj": {
+    "C:\\Users\\manuf\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khadi\\Source\\Repos\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj",
+        "projectUniqueName": "C:\\Users\\manuf\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj",
         "projectName": "RestaurantApp",
-        "projectPath": "C:\\Users\\khadi\\Source\\Repos\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj",
-        "packagesPath": "C:\\Users\\khadi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khadi\\Source\\Repos\\RestaurantApp_Project\\RestaurantApp\\obj\\",
+        "projectPath": "C:\\Users\\manuf\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj",
+        "packagesPath": "C:\\Users\\manuf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manuf\\RestaurantApp_Project\\RestaurantApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\khadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\manuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
