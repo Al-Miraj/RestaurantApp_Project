@@ -25,7 +25,7 @@ public class Menu
                     Console.ReadLine();
                     break;
                 case "2":
-                    Console.WriteLine("About Us - Learn more about our restaurant.");
+                    About.RestaurantInformation();
                     Console.ReadLine();
                     break;
                 case "3":
@@ -51,4 +51,3 @@ public class Menu
         }
     }
 }
-
