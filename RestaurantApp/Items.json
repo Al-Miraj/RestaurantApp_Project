@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Grilled Salmon",
+    "Description": "Freshly grilled salmon served with a lemon butter sauce",
+    "Ingredients": [ "Salmon", "Lemon", "Butter" ],
+    "Price": 15.99,
+    "Timeslot": "Dinner",
+    "Icon": "Fish"
+  },
+  {
+    "Name": "Caesar Salad",
+    "Description": "Crisp romaine lettuce tossed with our homemade Caesar dressing",
+    "Ingredients": [ "Romaine Lettuce", "Caesar Dressing" ],
+    "Price": 7.99,
+    "Timeslot": "Lunch",
+    "Icon": "Vegetarian"
+  },
+  {
+    "Name": "Steak Frites",
+    "Description": "Juicy steak served with a side of crispy fries",
+    "Ingredients": [ "Steak", "Fries" ],
+    "Price": 18.99,
+    "Timeslot": "Dinner",
+    "Icon": "Meat"
+  }
+]

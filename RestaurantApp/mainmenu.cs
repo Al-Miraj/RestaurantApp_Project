@@ -33,9 +33,9 @@ public class Menu
                     Console.ReadLine();
                     break;
                 case "4":
-                    Console.WriteLine("Menu - Check out our delicious dishes.");
-                    Console.ReadLine();
+                    FoodMenu.Display();
                     break;
+                    
                 case "5":
                     Console.WriteLine("Login - Enter your credentials to log in.");
                     Console.ReadLine();

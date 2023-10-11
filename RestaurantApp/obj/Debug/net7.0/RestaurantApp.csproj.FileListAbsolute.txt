@@ -1,0 +1,17 @@
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\bin\Debug\net7.0\RestaurantApp.exe
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\bin\Debug\net7.0\RestaurantApp.deps.json
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\bin\Debug\net7.0\RestaurantApp.runtimeconfig.json
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\bin\Debug\net7.0\RestaurantApp.dll
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\bin\Debug\net7.0\RestaurantApp.pdb
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\obj\Debug\net7.0\RestaurantApp.csproj.AssemblyReference.cache
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\obj\Debug\net7.0\RestaurantApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\obj\Debug\net7.0\RestaurantApp.AssemblyInfoInputs.cache
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\obj\Debug\net7.0\RestaurantApp.AssemblyInfo.cs
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\obj\Debug\net7.0\RestaurantApp.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\obj\Debug\net7.0\RestaurantApp.csproj.CopyComplete
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\obj\Debug\net7.0\RestaurantApp.dll
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\obj\Debug\net7.0\refint\RestaurantApp.dll
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\obj\Debug\net7.0\RestaurantApp.pdb
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\obj\Debug\net7.0\RestaurantApp.genruntimeconfig.cache
+C:\Users\Frank\Source\Repos\RestaurantApp_Projectv2\RestaurantApp\obj\Debug\net7.0\ref\RestaurantApp.dll
