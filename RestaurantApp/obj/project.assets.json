@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\manuf\\.nuget\\packages\\": {}
+    "C:\\Users\\Frank\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manuf\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj",
+      "projectUniqueName": "C:\\Users\\Frank\\source\\repos\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj",
       "projectName": "RestaurantApp",
-      "projectPath": "C:\\Users\\manuf\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj",
-      "packagesPath": "C:\\Users\\manuf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manuf\\RestaurantApp_Project\\RestaurantApp\\obj\\",
+      "projectPath": "C:\\Users\\Frank\\source\\repos\\RestaurantApp_Project\\RestaurantApp\\RestaurantApp.csproj",
+      "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Frank\\source\\repos\\RestaurantApp_Project\\RestaurantApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\manuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
